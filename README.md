@@ -1,7 +1,8 @@
 # Quizzify
 
-This is a native Andriod App Developed using Andriod Studio. This is a quiz app which prompt questions and answers in multiple choice question format.
-It records the scores of each attempt and provieds the functionality of viewing them later. This app uses an SQLite database to store the data.
+This is a native Andriod App Developed using Andriod Studio. This is an offline quiz app which prompt questions and answers in multiple choice question format.
+It records the scores of each attempt and provieds the functionality of viewing them later. This app uses an SQLite database to store the data. 
+All the functionalities of this app are designed in a manner to work offline, needing no internet connection.
 
 This app contains following fuctionalities:
 - attempting quiz questions
